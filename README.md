@@ -1,1 +1,1 @@
-# rn-swipe-list-view
+# rn-simple-swipe-list-view
